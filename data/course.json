@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ethics-of-bias-in-ai"
+  },
+  "course_title": "Ethics of Bias in AI",
+  "course_description": "",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.10-002",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ethics-of-bias-in-ai"
+  },
+  "learning_resource_types": [
+    "Other Video"
+  ],
+  "site_uid": "cd4ea5d5-4f20-493b-8dc4-dd72babdf4e1",
+  "site_short_id": "res.10-002-spring-2023"
+}
