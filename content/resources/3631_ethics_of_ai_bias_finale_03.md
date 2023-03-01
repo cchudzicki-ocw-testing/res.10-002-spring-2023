@@ -8,7 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Other Video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 3631_Ethics_of_AI_Bias_FINALE_03.mp4
@@ -19,7 +20,9 @@ video_files:
   video_transcript_file: /courses/res-10-002-ethics-of-bias-in-ai-spring-2023/3631_ethics_of_ai_bias_finale_03_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: Locke, natural right, justice, equality, artificial intelligence, training
+    sets
   youtube_description: ''
   youtube_id: NgaW_p7gsRc
 ---
+This video presents a dramatized seminar-style class session in which participants discuss the ethical issues relating to bias in artificial intelligence.
