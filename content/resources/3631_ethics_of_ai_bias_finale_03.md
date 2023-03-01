@@ -22,7 +22,16 @@ video_metadata:
   video_speakers: ''
   video_tags: Locke, natural right, justice, equality, artificial intelligence, training
     sets
-  youtube_description: ''
+  youtube_description: "MIT RES.10-002 Ethics of Bias in AI, Spring 2023\nInstructors:\
+    \ Prof. Bernhardt Trout, Prof. Svetozar Minkov\n\nView the resource on MIT OpenCourseWare:\
+    \ <url to course home page when published>\n\nThis is a video presenting a dramatized\
+    \ seminar-type class session in which the participants discuss the ethical ramifications\
+    \ of bias in artificial intelligence systems. \n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: NgaW_p7gsRc
 ---
 This video presents a dramatized seminar-style class session in which participants discuss the ethical issues relating to bias in artificial intelligence.
