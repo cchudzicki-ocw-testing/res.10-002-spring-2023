@@ -10,7 +10,7 @@ uid: 9f4fd1aa-9939-4e3a-a7f9-aea2eb224f9f
 
 The recommended text to accompany this video:
 
-Locke, John. *Two Treatises of Government*, edited by Peter Laslett. Cambridge University Press, 1988. ASIN: 0521357306.
+Locke, John. *Two Treatises of Government*, edited by Peter Laslett. Cambridge University Press, 1988. ISBN: 9780521357302.
 
 The following video, which presents a lecture by Ava Soleimany from the MIT course *6.S191 Introduction to Deep Learning*, may also be of interest: 
 
