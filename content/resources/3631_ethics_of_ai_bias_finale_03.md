@@ -19,7 +19,7 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/NgaW_p7gsRc/default.jpg
   video_transcript_file: /courses/res-10-002-ethics-of-bias-in-ai-spring-2023/3631_ethics_of_ai_bias_finale_03_transcript.pdf
 video_metadata:
-  video_speakers: ''
+  video_speakers: Evie Dumont
   video_tags: Locke, natural right, justice, equality, artificial intelligence, training
     sets
   youtube_description: "MIT RES.10-002 Ethics of Bias in AI, Spring 2023\nInstructors:\
