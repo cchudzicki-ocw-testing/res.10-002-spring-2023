@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 3631_Ethics_of_AI_Bias_FINALE_03_captions.txt
+title: 3631_ethics_of_ai_bias_finale_03_transcript.pdf
 uid: d6af3e31-05a2-47b4-b04e-3be7fbe18f86
 video_files:
   video_captions_file: ''
