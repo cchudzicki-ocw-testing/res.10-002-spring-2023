@@ -6,6 +6,8 @@ draft: false
 title: 'Video: Ethics of AI Bias'
 uid: 9f4fd1aa-9939-4e3a-a7f9-aea2eb224f9f
 ---
+This video presents a dramatized seminar-style class session in which participants discuss the ethical issues relating to bias in artificial intelligence.
+
 {{< resource uuid="d012a0d9-cf91-48d8-83be-e4e4be6cff8a" >}}
 
 The following book is the recommended reading to accompany the video:
