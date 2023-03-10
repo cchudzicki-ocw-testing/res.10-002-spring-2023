@@ -34,4 +34,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: NgaW_p7gsRc
 ---
-This video presents a dramatized seminar-style class session in which participants discuss the ethical issues relating to bias in artificial intelligence.
+This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the video with book in hand (ideally more than once) and discussing the issues raised in class.
