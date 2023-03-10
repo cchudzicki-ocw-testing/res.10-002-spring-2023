@@ -12,7 +12,7 @@ learning_resource_types:
 - Other Video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 3631_Ethics_of_AI_Bias_FINALE_03.mp4
+title: Ethics of AI Bias
 uid: d012a0d9-cf91-48d8-83be-e4e4be6cff8a
 video_files:
   video_captions_file: /courses/res-10-002-ethics-of-ai-bias-spring-2023/3631_ethics_of_ai_bias_finale_03_captions.vtt
