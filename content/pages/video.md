@@ -6,7 +6,7 @@ draft: false
 title: 'Video: Ethics of AI Bias'
 uid: 9f4fd1aa-9939-4e3a-a7f9-aea2eb224f9f
 ---
-This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the video with book in hand (ideally more than once) and discussing the issues raised in class.
+This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the video (ideally more than once) with book in hand and discussing the issues raised in class.
 
 {{< resource uuid="d012a0d9-cf91-48d8-83be-e4e4be6cff8a" >}}
 
