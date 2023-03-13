@@ -22,7 +22,7 @@ video_metadata:
   video_speakers: Evie Dumont
   video_tags: Locke, natural right, justice, equality, artificial intelligence, training
     sets
-  youtube_description: "MIT RES.10-002 Ethics of Bias in AI, Spring 2023\nInstructors:\
+  youtube_description: "MIT RES.10-002 Ethics of AI Bias, Spring 2023\nInstructors:\
     \ Prof. Bernhardt Trout, Prof. Svetozar Minkov\n\nView the resource on MIT OpenCourseWare:\
     \ https://ocw.mit.edu/courses/res-10-002-ethics-of-bias-in-ai-spring-2023/\n\n\
     This is a video presenting a dramatized seminar-type class session in which the\
