@@ -13,9 +13,9 @@ uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 
 While users may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
 
-We recommend the following text as reading to accompany the video:
+The following book is the recommended reading to accompany the video:
 
-We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
+- Locke, John. *Two Treatises of Government*, edited by Peter Laslett. Cambridge University Press, 1988. ISBN: 9780521357302.
 
 ### Overview
 
@@ -33,8 +33,6 @@ The characters, with some of their characteristics, are:
 - SOPHIE Inchoate: about 19 years old, a bit shy, but the most desirous of learning, well-read, great memory
 - PATCH Gripgit: about 20 years old, athletic, tall, A bit cocky; knows a lot and wants to show his knowledge
 - ALYSSA Barker: about 20 years old, bright, chip on her shoulder, but comes around at the end
-
- 
 
 ### Part I: Intrinsic Limitations of the Mathematical Solution
 
@@ -79,7 +77,7 @@ This is a warm-up for what will come. Answer these as best as you can given your
 
 Here we turn to Locke, in particular his *Second Treatise of Government*, to understand better the problems that arose in parts I**–**III. In particular, we turn to the Lockean concept of modern natural right. The basis of this concept is the state of nature and its characteristics. It is also based on the understanding that human beings are naturally equal and free and that political communities are organized to protect that equality and freedom and also to protect property, which is closely connected. Modern natural right is the basis of the American regime, as exemplified in the Declaration of Independence.
 
-After watching the clip, you should read Locke’s *Second Treatise of Government* chapters I and II, paying particular attention to the paragraphs referred to in the film (4, 7, 9, 13, and 14). We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett. Then think about the following:
+After watching the clip, you should read Locke’s *Second Treatise of Government* chapters I and II, paying particular attention to the paragraphs referred to in the film (4, 7, 9, 13, and 14).
 
 1. At the very beginning of the Treatise, what is the choice that Locke poses for us regarding the origin of government? What do you think about this choice?
 2. Describe the State of Nature.
