@@ -1,10 +1,10 @@
 ---
 content_type: page
 description: This page presents the same video as in the "Full Video" page, but the
-  video is broken into five segments, each of which is presented with relevant teaching
+  video is broken into five segments, each of which is presented with relevant study
   materials.
 draft: false
-title: Chapterized Video
+title: Chapterized Video and Study Guide
 uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 ---
 ## The Ethics of AI Bias: Evolution of a Solution
@@ -114,66 +114,47 @@ Read and think about the following articles. Think about them with respect to th
 
 [https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/)
 
-a.     Summarize the issues with bias and recidivism.
+1. Summarize the issues with bias and recidivism.
+2. What are some of the proposed solutions in the articles?
+3. What would a rights-based solution be?
+4. What are some of the problems with a pure AI-based solution to the issue?
+5. How do you think that the issue should be addressed and why?
+6. Discuss with classmates and friends.
 
-b.     What are some of the proposed solutions in the articles?
-
-c.     What would a rights-based solution be?
-
-d.     What are some of the problems with a pure AI-based solution to the issue?
-
-e.     How do you think that the issue should be addressed and why?
-
-f.      Discuss with classmates and friends.
-
-#### Financial services
+#### Financial Services
 
 Read and think about the following article. Think about it with respect to the learnings above.
 
 [https://www.brookings.edu/articles/reducing-bias-in-ai-based-financial-services/](https://www.brookings.edu/articles/reducing-bias-in-ai-based-financial-services/)
 
-a.     Summarize the issues with financial services and describe differences and similarities with the issue of recidivism.
+1. Summarize the issues with financial services and describe differences and similarities with the issue of recidivism.
+2. What are some of the proposed solutions/solution in the article?
+3. What would a rights-based solution be?
+4. What are some of the problems with a pure AI-based solution to the issue?
+5. How do you think that the issue should be addressed and why?
+6. Discuss with classmates and friends.
 
-b.     What are some of the proposed solutions/solution in the article?
+#### Facial Recognition
 
-c.     What would a rights-based solution be?
+1. Do your own search for articles and videos that discuss bias in facial recognition.
+2. Explain the key issues that you found and the solutions proposed in the articles.
+3. What would a rights-based solution be?
+4. What are some of the problems with a pure AI-based solution to the issue?
+5. How do you think that the issue should be addressed and why?
+6. Discuss with classmates and friends.
 
-d.     What are some of the problems with a pure AI-based solution to the issue?
+#### Autonomous Vehicles
 
-e.     How do you think that the issue should be addressed and why?
-
-f.      Discuss with classmates and friends.
-
-#### Facial recognition
-
-a.     Do your own search for articles and videos that discuss bias in facial recognition.
-
-b.     Explain the key issues that you found and the solutions proposed in the articles.
-
-c.     What would a rights-based solution be?
-
-d.     What are some of the problems with a pure AI-based solution to the issue?
-
-e.     How do you think that the issue should be addressed and why?
-
-f.      Discuss with classmates and friends.
-
-#### Autonomous vehicles
-
-Watch the Ted Talk:
+Watch the following Ted Talk:
 
 ![*](file:///C:/Users/Peter%20Chipman/AppData/Local/Packages/oice_16_974fa576_32c1d314_20c3/AC/Temp/msohtmlclip1/01/clip_image001.png)     Rahwan, “What moral decisions should driverless cars make?”
 
-Read and think about the following article.
+Read and think about the following article:
 
 [https://www.technologyreview.com/2015/10/22/165469/why-self-driving-cars-must-be-programmed-to-kill/](https://www.technologyreview.com/2015/10/22/165469/why-self-driving-cars-must-be-programmed-to-kill/)
 
-a.     Summarize the key ethical issues with respect to self-driving cars.
-
-b.     What would a rights-based solution to these issues be?
-
-c.     What are some of the problems with a pure AI-based solution to the issue?
-
-d.     How do you think that the issue should be addressed and why?
-
-e.     Discuss with classmates and friends.
+1. Summarize the key ethical issues with respect to self-driving cars.
+2. What would a rights-based solution to these issues be?
+3. What are some of the problems with a pure AI-based solution to the issue?
+4. How do you think that the issue should be addressed and why?
+5. Discuss with classmates and friends.
