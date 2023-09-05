@@ -11,7 +11,7 @@ uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 
 ### A Note to Teachers
 
-While motivated learners may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
+While motivated learners may choose to watch {{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
 
 The following book is the recommended reading to accompany the video:
 
@@ -109,15 +109,15 @@ Now we apply teachings to several case studies:
 Read and think about the following articles. Think about them with respect to the learnings above.
 
 - Jeff Larson, Surya Mattu, Lauren Kirchner and Julia Angwin. ["How We Analyzed the COMPAS Recidivism Algorithm."](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) *ProPublica*, May 23, 2016.
-- Matthias Spielkamp. ["Inspecting Algorithms for Bias."](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/) 
-    
-    *MIT Technology Review*, 
-    
+- Matthias Spielkamp. ["Inspecting Algorithms for Bias."](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/)   
+      
+    *MIT Technology Review*,   
+      
     June 12, 2017.
-- Karen Hao. "[AI Is Sending People to Jail—and Getting It Wrong."](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/) 
-    
-    *MIT Technology Review*, 
-    
+- Karen Hao. "[AI Is Sending People to Jail—and Getting It Wrong."](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/)   
+      
+    *MIT Technology Review*,   
+      
     January 21, 2019.
 
 1. Summarize the issues with bias and recidivism.
