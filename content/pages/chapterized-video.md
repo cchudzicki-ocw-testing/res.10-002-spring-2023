@@ -13,6 +13,10 @@ uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 
 While users may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
 
+We recommend the following text as reading to accompany the video:
+
+We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
+
 ### Overview
 
 Bias in artificial intelligence (AI) algorithms is considered to be an extremely important subject both in AI and in society at large. Typical examples of bias include the facts that facial recognition doesn’t work as well for some groups as others; that prediction of recidivism (the propensity for prisoners to commit crimes once released and a judgment that affects parole decisions) works worse for some groups rather than others; and that algorithmic acceptance of loan applications favors some groups over others.
@@ -29,6 +33,8 @@ The characters, with some of their characteristics, are:
 - SOPHIE Inchoate: about 19 years old, a bit shy, but the most desirous of learning, well-read, great memory
 - PATCH Gripgit: about 20 years old, athletic, tall, A bit cocky; knows a lot and wants to show his knowledge
 - ALYSSA Barker: about 20 years old, bright, chip on her shoulder, but comes around at the end
+
+ 
 
 ### Part I: Intrinsic Limitations of the Mathematical Solution
 
@@ -87,7 +93,7 @@ After watching the clip, you should read Locke’s *Second Treatise of Governmen
 
 We continue exploring the *Second Treatise of Government*, and in particular Locke's teaching about property.
 
-After watching the clip, you should read Locke’s *Second Treatise of Government* chapter V, paying particular attention to the paragraphs referred to in the film (26, 27, 36, 37, 40, and 43). We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
+After watching the clip, you should read Locke’s *Second Treatise of Government* chapter V, paying particular attention to the paragraphs referred to in the film (26, 27, 36, 37, 40, and 43).
 
 1. What is the basis of property and ownership?
 2. Is it OK to waste? Why and why not?
