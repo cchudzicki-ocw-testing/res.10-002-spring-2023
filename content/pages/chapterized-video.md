@@ -7,263 +7,108 @@ draft: false
 title: Chapterized Video
 uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 ---
-**The Ethics of AI Bias**
+## The Ethics of AI Bias: Evolution of a Solution
 
-**Evolution of a Solution**
+### A note to teachers
 
- 
+While users may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
 
-***A note to teachers***
+### Overview
 
- 
-
-*While the whole video can be accessed (*[*https://www.youtube.com/watch?v=NgaW_p7gsRc*](https://www.youtube.com/watch?v=NgaW_p7gsRc)*), we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips and added guidance in this document. Questions can be discussed in class and/or answered by students in written form.*
-
- 
-
-**Overview**
-
- 
-
-Bias in artificial intelligence (AI) algorithms is considered to be an extremely important subject both in AI and in society at large. Typical examples of bias include: facial recognition doesn’t work as well for some groups as others; prediction of recidivism (propensity for prisoners to commit crimes once released and a judgment that affects parole decisions) works worse for some groups rather than others; algorithmic acceptance of loan applications favors some groups over others.
-
- 
+Bias in artificial intelligence (AI) algorithms is considered to be an extremely important subject both in AI and in society at large. Typical examples of bias include the facts that facial recognition doesn’t work as well for some groups as others; that prediction of recidivism (the propensity for prisoners to commit crimes once released and a judgment that affects parole decisions) works worse for some groups rather than others; and that algorithmic acceptance of loan applications favors some groups over others.
 
 The explanation for these biases is always that they are due to historical inequities that have carried through to today and are reflected in algorithmic predictions. That seems reasonable, and the question then becomes: What should be done?
 
- 
-
 The typical and practically sole approach of those in the computational sciences is to try to adjust their algorithms to eliminate bias. We can call that the “algorithmic solution.” This solution, however, has not generally been successful. This series of videos aims to elucidate the problems with the algorithmic solution. It does so with excerpts from a dramatized classroom in which students are guided by a knowledgeable teacher to address the issue in a way that they would never have expected when they began. Their understanding has been enhanced as they leave behind the expectation that the algorithmic solution (or mathematics broadly) by itself can adequately address difficult human problems. Moreover, they learn that to help others, they first need to understand themselves better.
 
- 
+The characters, with some of their characteristics, are:
 
- The characters with some of their characteristics are:
+- PROF. SOPHIE MULLER (pronounced "mull-er," like someone who mulls over things): about 30 years old, Assistant Professor of Engineering, professional, but also emanating humanity, composed, likeable
+- GLENDA Providence: about 20 years old, nice and well-meaning, wants to do good, upbeat, positive, possibly in a sorority
+- ALVIS Pauper: about 20 years old, studious and smart but a bit jealous of the good fortune of others
+- SOPHIE Inchoate: about 19 years old, a bit shy, but the most desirous of learning, well-read, great memory
+- PATCH Gripgit: about 20 years old, athletic, tall, A bit cocky; knows a lot and wants to show his knowledge
+- ALYSSA Barker: about 20 years old, bright, chip on her shoulder, but comes around at the end
 
- 
+### Part I: Intrinsic Limitations of the Mathematical Solution
 
-PROF. SOPHIE MULLER (pronounced mull-er, like someone who mulls over things) – about 30, Assistant Professor of Engineering, professional, but also emanating humanity, composed, likeable
+In the first video clip, you will investigate some of issues of AI bias together with the limitations of the algorithmic solution. In watching this video, think about the following:
 
- 
+1. How is bias incorporated into training sets and choice of algorithm together with parameterization?
+2. What is bias in general? Give some examples.
+3. Why is bias a concern?
+4. This clip shows the first limitation of the mathematical solution, that it cannot actually solve the problem due to intrinsic limitations of mathematics. Can you explain what some of those limitations are?
+5. With which of the characters do you most identify? Which are similar to your friends?
 
-GLENDA Providence- 20, Nice and well-meaning, wants to do good, upbeat, positive, possibly in a Sorority
+**\[Embed excerpt 11:29–15:18 here\]**
 
- 
+Further exploration: In this clip, the students lead themselves into an impasse. Describe the impasse. What is the reason for falling into it? Do you have any suggestions on how they can get themselves out of it?
 
-ALVIS Pauper- 20, Studious and smart but a bit jealous of the good fortune of others
+### Part II: Incompatibility of Choice and the Mathematical Solution
 
- 
+Between the first and the second video clip, the students are adamant that they can make choices and mitigate bias. However, they are still committed to the view that mathematics can provide the solution. They do not yet realize that the only way to resolve the tension between mathematical determinism and choice is to abandon the view that mathematics is the best way of understanding the world. The teacher brings them along to a better understanding of their aspirations and how mathematics cannot address them. Specifically, they are led to a better understanding of the importance of choice as they are led to a deeper understanding of the world. In watching this video, think about the following:
 
-SOPHIE Inchoate- 19, A bit shy, but the most desirous of learning, well-read, great memory
+1. What is the tension revealed between ethics, which involves choice, and the mathematical approach?
+2. In what ways is modern science limited in describing the world?
+3. How is that connected with mathematization?
+4. Why is describing choice as based on interests incomplete?
+5. Why are students resistant to seeing the limitations of mathematization?
+6. How does directly seeing the limitations of algorithmic classification in AI help the students to move away from the algorithmic solution? Consider, for example, some of the political and societal ramifications of the mathematical view.
 
- 
+**\[Embed excerpt 15:23–25:10 here\]**
 
-PATCH Gripgit- 20, Athletic, tall, A bit cocky; knows a lot and wants to show his knowledge
+### Part III: The Problem of Equality
 
- 
+This is a warm-up for what will come. Answer these as best as you can given your own experiences:
 
-ALYSSA Barker- 20, Bright, chip on her shoulder, but comes around at the end
+1. What do people mean by equality? For example, does it mean that everyone should have equal outcomes, or more equal outcomes? Or does it mean equality of opportunity? Or do people tend to equate the two?
+2. How should we think about differences in income and wealth?
+3. Mathematics tends to homogenize. What are the advantages and disadvantages to this? For example, is there a benefit to groups being different?
+4. What are the connections and differences among equality, justice, and rights?
+5. Democratic regimes tend to conflate equality with justice. Equality becomes of primary importance. This can be exploited by people who aim to control others through political power or wealth.
 
- 
+**\[Embed excerpt 25:49–29:49 here\]**
 
-I.               In the first video, you will investigate some of issues of AI bias together with the limitations of the algorithmic solution. In watching this video, think about the following:
+### Part IV: Modern Natural Right, the State of Nature, and Equality
 
- 
+Here we turn to Locke, in particular his *Second Treatise of Government*, to understand better the problems that arose in parts I**–**III. In particular, we turn to the Lockean concept of modern natural right. The basis of this concept is the state of nature and its characteristics. It is also based on the understanding that human beings are naturally equal and free and that political communities are organized to protect that equality and freedom and also to protect property, which is closely connected. Modern natural right is the basis of the American regime, as exemplified in the Declaration of Independence.
 
-Intrinsic limitations of the mathematical solution.
+After watching the clip, you should read Locke’s *Second Treatise of Government* chapters I and II, paying particular attention to the paragraphs referred to in the film (4, 7, 9, 13, and 14). We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett. Then think about the following:
 
-a.     How is bias incorporated into training sets and choice of algorithm together with parameterization.
+1. At the very beginning of the Treatise, what is the choice that Locke poses for us regarding the origin of government? What do you think about this choice?
+2. Describe the State of Nature.
+3. What is equality for Locke?
+4. What is freedom for Locke and how is it connected with the Law of Reason?
+5. How is the Law of Reason mathematical or not mathematical?
 
-b.     What is bias in general? Give some examples.
+**\[Embed excerpt 29:57–30:35 and 30:53–37:33 here\]**
 
-c.     Why is bias a concern?
+### Part V: Property, Equality, and Bias
 
-d.     This clip shows the first limitation of the mathematical solution, that it cannot actually solve the problem due to intrinsic limits with mathematics. Can you explain what some of those limits are?
+We continue exploring the *Second Treatise of Government*, and in particular Locke's teaching about property.
 
-e.     With which of the characters do you most identify? Which are similar to your friends?
+After watching the clip, you should read Locke’s *Second Treatise of Government* chapter V, paying particular attention to the paragraphs referred to in the film (26, 27, 36, 37, 40, and 43). We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
 
- 
+1. What is the basis of property and ownership?
+2. Is it OK to waste? Why and why not?
+3. What is the connection between Locke’s teaching about property and bias?
+4. What is the concern about employing technical-mathematical means to address bias? What is the Lockean teaching about this?
 
-\[\*\*1 begin\*\* Muller: You probably all know this, but just to remind you, the overall approach is simple. ...Professor, we ran into the same impasse when we had this discussion last week during Spring Break. \*\*1 end\*\*\] On YouTube, this is 11:29 – 15:18.
+**\[Embed excerpt 37:34–43:49 here\]**
 
- 
-
-Further exploration: In this excerpt, the students lead themselves into an impasse. Describe the impasse. What is the reason for falling into it? Do you have any suggestions on how they can get themselves out of it?
-
- 
-
-II.             Between the first and the second video, the students are adamant that they can make choices and mitigate bias. However, they are still committed to the view that mathematics can provide the solution. They do not yet realize that the only way to resolve the tension between mathematical determinism and choice is to abandon the view that mathematics is the best way of understanding the world. The teacher brings them along to a better understanding of their aspirations and how mathematics cannot address them. Specifically, they are led to a better understanding of the importance of choice as they are led to a deeper understanding of the world. In watching this video, think about the following:
-
- 
-
-Incompatibility of choice and the mathematical solution.
-
-a.     What is the tension revealed between ethics, which involves choice, and the mathematical approach?
-
-b.     In what ways is modern science limited in describing the world?
-
-c.     How is that connected with mathematization?
-
-d.     Why is describing choice as based on interests incomplete?
-
-e.     Why are students resistant to seeing the limits of mathematization?
-
-f.      How does directly seeing the limits in algorithmic classification, AI, help the students to move away from the algorithmic solution? Consider, for example, some of the political and societal ramifications of the mathematical view.
-
- 
-
-\[\*\* 2 start \*\* Muller: So you all think that it is possible to mitigate bias, depending on what actions you take?... Muller: Indeed, Glenda, there is, though it first requires a reconsideration of our concerns and of the issue.
-
- 
-
-\[*students with eager looks on their faces to learn*\]
-
- 
-
-\*\* 2 end \*\*\] On YouTube, this is 15:23 – 25:10.
-
- 
-
- 
-
-III.           The problem of equality.
-
- 
-
-This is a warm-up for what will come. Answer these as best as you can given your own experiences.
-
- 
-
-a.     What do people mean by equality? For example, does it mean that everyone should have equal outcomes, or more equal outcomes? Or does it mean equality of opportunity? Or do people tend to equate the two?
-
-b.     How should we think about differences in income and wealth?
-
-c.     Mathematics tends to homogenize. What are the advantages and disadvantages to this? For example, is there a benefit to groups being different?
-
-d.     What are the connections and differences among equality, justice, and rights?
-
-e.     Democratic regimes tend to conflate equality with justice. Equality becomes of primary importance. This can be exploited by people who aim to control others through political power or wealth.
-
- 
-
- 
-
-\[\*\* 3 start \*\* Muller: We just showed that because of the intrinsic incompleteness of models…
-
- 
-
-what about that other way that you promised?
-
- 
-
-\*\* 3 end \*\*\] On YouTube, this is 25:49 – 29:49.
-
- 
-
- 
-
-IV.           Modern Natural Right, the State of Nature, and Equality
-
- 
-
-Here we turn to Locke, in particular his *Second Treatise of Government*, to understand better the problems that arose in Parts I-III. In particular, we turn to the Lockian concept of modern natural right. The basis of this concept is the state of nature and its characteristics. It is also based on the understanding that human beings are naturally equal and free and that political communities are organized to protect both of those and also to protect property, which is closely connected. Modern natural right is the basis of the American regime, as exemplified in the Declaration of Independence.
-
- 
-
-After watching the excerpt, you should read Locke’s *Second Treatise of Government* Chapter’s I and II, paying particular attention to the paragraphs referred to in the film, 4, 7, 9, 13, 14. We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
-
- 
-
-a.     At the very beginning of the Treatise, what is the choice that Locke poses for us regarding the origin of government? What do you think about this choice?
-
-b.     Describe the State of Nature.
-
-c.     What is equality for Locke?
-
-d.     What is freedom for Locke and how is it connected with the Law of Reason?
-
-e.     How is the Law of Reason mathematical or not mathematical?
-
- 
-
-\[\*\* 4 start \*\* Do you remember learning about modern natural right from Prof. Bear before Spring Break?...
-
- 
-
-n  See details on script for cuts out of this section
-
- 
-
-what about that other way that you promised?
-
- 
-
-\*\* 4 end \*\*\] On YouTube, this is 29:57 – 30:35… 30:53 -37:33.
-
- 
-
- 
-
-V.             Property, Equality, and Bias
-
- 
-
-We continue exploring the *Second Treatise of Government*, and in particular about property.
-
- 
-
-After watching the excerpt, you should read Locke’s *Second Treatise of Government* Chapter V, paying particular attention to the paragraphs referred to in the film, 26, 27, 36, 37, 40, 43. We suggest the Cambridge 2<sup>nd</sup> Edition, edited by Laslett.
-
- 
-
-a.     What is the basis of property and ownership?
-
-b.     Is it OK to waste? Why and why not?
-
-c.     What is the connection between Locke’s teaching about property and bias?
-
-d.     What is the concern about employing technical-mathematical means to address bias? What is the Lockian teaching about this?
-
- 
-
- 
-
-\[\*\* 5 start \*\* Since we are short on time…
-
- 
-
- 
-
-what about that other way that you promised?
-
- 
-
-\*\* 5 end \*\*\] On YouTube, this is 37:34 – 43:49.
-
- 
-
-VI.           Cases
-
- 
+### Part VI: Cases
 
 Now we apply teachings to several case studies:
 
- 
-
-·       Recidivism
-
- 
+#### Recidivism
 
 Read and think about the following articles. Think about them with respect to the learnings above.
-
- 
 
 [https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
 
 [https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/)
 
 [https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/)
-
- 
 
 a.     Summarize the issues with bias and recidivism.
 
@@ -277,19 +122,11 @@ e.     How do you think that the issue should be addressed and why?
 
 f.      Discuss with classmates and friends.
 
- 
-
-·       Financial services
-
- 
+#### Financial services
 
 Read and think about the following article. Think about it with respect to the learnings above.
 
- 
-
 [https://www.brookings.edu/articles/reducing-bias-in-ai-based-financial-services/](https://www.brookings.edu/articles/reducing-bias-in-ai-based-financial-services/)
-
- 
 
 a.     Summarize the issues with financial services and describe differences and similarities with the issue of recidivism.
 
@@ -303,11 +140,7 @@ e.     How do you think that the issue should be addressed and why?
 
 f.      Discuss with classmates and friends.
 
- 
-
-·       Facial recognition
-
- 
+#### Facial recognition
 
 a.     Do your own search for articles and videos that discuss bias in facial recognition.
 
@@ -321,25 +154,15 @@ e.     How do you think that the issue should be addressed and why?
 
 f.      Discuss with classmates and friends.
 
- 
-
-·       Autonomous vehicles
-
- 
+#### Autonomous vehicles
 
 Watch the Ted Talk:
 
 ![*](file:///C:/Users/Peter%20Chipman/AppData/Local/Packages/oice_16_974fa576_32c1d314_20c3/AC/Temp/msohtmlclip1/01/clip_image001.png)     Rahwan, “What moral decisions should driverless cars make?”
 
- 
-
 Read and think about the following article.
 
- 
-
 [https://www.technologyreview.com/2015/10/22/165469/why-self-driving-cars-must-be-programmed-to-kill/](https://www.technologyreview.com/2015/10/22/165469/why-self-driving-cars-must-be-programmed-to-kill/)
-
- 
 
 a.     Summarize the key ethical issues with respect to self-driving cars.
 
