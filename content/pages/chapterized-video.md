@@ -75,7 +75,7 @@ This is a warm-up for what will come. Answer these as best as you can given your
 
 ### Part IV: Modern Natural Right, the State of Nature, and Equality
 
-Here we turn to Locke, in particular his *Second Treatise of Government*, to understand better the problems that arose in parts I–III. In particular, we turn to the Lockean concept of modern natural right. The basis of this concept is the state of nature and its characteristics. It is also based on the understanding that human beings are naturally equal and free and that political communities are organized to protect that equality and freedom and also to protect property, which is closely connected. Modern natural right is the basis of the American regime, as exemplified in the Declaration of Independence.
+Here we turn to Locke, in particular his *Second Treatise of Government*, to understand better the problems that arose in parts I–III. In particular, we turn to the Lockean concept of modern natural right. The basis of this concept is the state of nature and its characteristics. It is also based on the understanding that human beings are naturally equal and free and that political communities are organized to protect equality and freedom and also to protect property, which is closely connected. Modern natural right is the basis of the American regime, as exemplified in the Declaration of Independence.
 
 After watching the clip, you should read Locke’s *Second Treatise of Government* chapters I and II, paying particular attention to the paragraphs referred to in the film (4, 7, 9, 13, and 14).
 
@@ -102,23 +102,15 @@ After watching the clip, you should read Locke’s *Second Treatise of Governmen
 
 ### Part VI: Cases
 
-Now we apply teachings to several case studies:
+Now we apply these teachings to several case studies:
 
 #### Recidivism
 
-Read and think about the following articles. Think about them with respect to the learnings above.
+Read and think about the following articles with respect to the learnings above:
 
 - Jeff Larson, Surya Mattu, Lauren Kirchner and Julia Angwin. ["How We Analyzed the COMPAS Recidivism Algorithm."](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) *ProPublica*, May 23, 2016.
-- Matthias Spielkamp. ["Inspecting Algorithms for Bias."](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/)    
-      
-    *MIT Technology Review*,    
-      
-    June 12, 2017.
-- Karen Hao. "[AI Is Sending People to Jail—and Getting It Wrong."](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/)    
-      
-    *MIT Technology Review*,    
-      
-    January 21, 2019.
+- Matthias Spielkamp. ["Inspecting Algorithms for Bias."](https://www.technologyreview.com/2017/06/12/105804/inspecting-algorithms-for-bias/) *MIT Technology Review*, June 12, 2017.
+- Karen Hao. "[AI Is Sending People to Jail—and Getting It Wrong."](https://www.technologyreview.com/2019/01/21/137783/algorithms-criminal-justice-ai/) *MIT Technology Review*, January 21, 2019.
 
 1. Summarize the issues with bias and recidivism.
 2. What are some of the proposed solutions in the articles?
