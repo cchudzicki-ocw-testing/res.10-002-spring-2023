@@ -9,9 +9,9 @@ uid: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
 ---
 ## The Ethics of AI Bias: Evolution of a Solution
 
-### A note to teachers
+### A Note to Teachers
 
-While users may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
+While motivated learners may choose to watch{{% resource_link "d012a0d9-cf91-48d8-83be-e4e4be6cff8a" "*The Ethics of AI Bias*" %}} in a single sitting, we have found that in this day and age, few students have the persistence to sit through the entire video, which is, we grant, quite complex. Thus, we have excerpted a few clips for classroom use and added guidance on this page. Questions can be discussed in class and/or answered by students in written form.
 
 The following book is the recommended reading to accompany the video:
 
